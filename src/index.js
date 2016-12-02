@@ -7,5 +7,5 @@ const srv = micro(async (req: ClientRequest, res: ServerResponse) => {
   res.end('hehehehehehehe');
 });
 
-const PORT = process.env.PORT || 3000;
+const { PORT = 3000 } = process.env;
 srv.listen(PORT);
