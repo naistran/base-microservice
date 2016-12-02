@@ -1,6 +1,7 @@
 {
   "name": "base-microservice",
   "version": "0.0.1",
+  "description": "Starting point for a Node microservice",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
