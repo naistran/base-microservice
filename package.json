@@ -15,7 +15,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "micro-scripts": "^0.0.4"
+    "micro-scripts": "^0.0.12"
   },
   "devDependencies": {
     "eslint": "^3.11.1",
